@@ -1,1 +1,1 @@
-1
+<img src="./assets/mizuki6_card_after_training.png" style="width: 75%; height: 75%; margin-left: auto; margin-right: auto; display: block;">
